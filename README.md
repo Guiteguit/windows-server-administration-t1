@@ -132,16 +132,6 @@ Le rendu minimal contient :
 - le rapport de santé du TP6 ;
 - le compte rendu d'incident du TP7 : symptôme, hypothèses, tests, cause racine, correction, validation, prévention.
 
-## Corrections formateur
-
-Le pack formateur contient `instructor/` avec corrections, scripts complets et cartes d'incidents. Ce dossier est ignoré par Git afin de limiter le risque de publier les réponses.
-
-```bash
-git status --ignored
-```
-
-Vérifier que `instructor/` apparaît comme ignoré.
-
 ## Versions Windows
 
 Les TP ciblent Windows Server 2022/2025. Windows Server 2025 est conseillé en 2026 lorsque l'environnement de l'école le permet. Les TP n'imposent pas Internet après préparation des VMs.
