@@ -1,0 +1,25 @@
+# Corrections formateur : ne pas publier
+instructor/
+
+# Images/VMs lourdes
+*.iso
+*.vhd
+*.vhdx
+*.vmdk
+*.ova
+*.ovf
+*.qcow2
+
+# Secrets / exports
+*.pfx
+*.cer
+*.key
+*.pem
+*.cred
+secrets/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
