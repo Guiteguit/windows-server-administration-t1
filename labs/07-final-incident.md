@@ -88,7 +88,7 @@ Vous devez traiter l’incident comme si vous étiez en production.
 
 ---
 
-# 📋 Règles du challenge
+# Règles du challenge
 
 Vous devez travailler dans l’ordre suivant :
 
